@@ -55,4 +55,30 @@ namespace Hesla
             this.Close();
         }
     }
+
+    //class Human
+    //{
+    //    public string firstName;
+    //    public  string lastName;
+    //    public DateTime birthDate;
+
+    //    public Human(string fn, string ln, DateTime bd)
+    //    {
+    //        firstName = fn;
+    //        lastName = ln;
+    //        birthDate = bd;
+    //    }
+    //}
+
+    //class Employee : Human
+    //{
+    //    public string workPosition;
+    //    public int payment;
+
+    //    public Employee(string wp, int pm, string fn, string ln, DateTime bd):base (fn, ln, bd)
+    //    {
+    //        workPosition = wp;
+    //        payment = pm;
+    //    }
+    //}
 }
